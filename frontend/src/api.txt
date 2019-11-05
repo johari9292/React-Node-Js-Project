@@ -1,0 +1,9 @@
+client id:
+728389309150-4u3bbv0rrutpn62c4evbgfu2qsp5pnb2.apps.googleusercontent.com
+728389309150-ms8fe2mob1m2l01e97n8f6ggn9ats3me.apps.googleusercontent.com
+
+clint secret:
+euSwJ9PZnHhvkDa6JfT1SQTz
+kMdIfnd__VmGeGSgfXoB75sF
+Api key
+AIzaSyDteD7DW6cCkEmB-lmRYK0jDq8YA9PXqK0
